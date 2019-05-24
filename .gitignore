@@ -1,0 +1,10 @@
+.*
+!.git*
+!.mailmap
+*.asc
+*.bin
+*.il
+*.iml
+*.json
+*.v
+*~
